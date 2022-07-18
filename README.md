@@ -1,1 +1,1 @@
-# goit-js-hw-07
+Homerwork 7-js
