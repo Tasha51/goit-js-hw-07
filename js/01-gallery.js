@@ -53,7 +53,7 @@ function createBasicLightbox(evt) {
         console.log('close the window...');
         
         instance.close(); 
-    
+       document.removeEventListener('keydown', closeBasicLightboxByEscape);
     };
 };
 };
